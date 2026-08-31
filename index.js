@@ -24,5 +24,4 @@ for (const file of commandFiles) {
 
 }
 
-
 client.login(process.env.DISCORD_TOKEN);
